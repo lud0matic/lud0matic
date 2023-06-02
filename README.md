@@ -14,6 +14,7 @@
 </a>
 
 <br>
+<br>
 
 Mostly of the time I'm doing this
 
@@ -26,8 +27,8 @@ but sometimes I love to do this. ~~I don't mean reply emails like a psysco~~
 ### 👨🏻‍💻 More About Me
 
 
-<img width="15px" src="assets/SVG/database-solid.svg"> Former Database Admin for almost 15 years.
+<img width="14px" src="assets/SVG/database-solid.svg"> Former Database Admin for almost 15 years.
 
-<img width="15px" src="assets/SVG/camera-solid.svg"> Actually working in [Casa Rosada](https://www.casarosada.gob.ar/la-casa-rosada/historia) as a photographer.
+<img width="14px" src="assets/SVG/camera-solid.svg"> Actually working in [Casa Rosada](https://www.casarosada.gob.ar/la-casa-rosada/historia) as a photographer.
 
-<img width="15px" src="assets/SVG/virus-covid-solid.svg"> In pandemic I came back to my old love for programming. [Al Sweigart](https://alsweigart.com) released his famouse book [Automate The Boring Stuff With Python](https://automatetheboringstuff.com) in form of [udemy-video-tutorial](https://www.udemy.com/course/automate/). Three years later I can't stop researching and playing with Python. <img width="15px" src="assets/SVG/python.svg"> <img width="15px" src="assets/SVG/heart-solid.svg">
+<img width="14px" src="assets/SVG/virus-covid-solid.svg"> In pandemic I came back to my old love for programming. [Al Sweigart](https://alsweigart.com) released his famouse book [Automate The Boring Stuff With Python](https://automatetheboringstuff.com) in form of [udemy-video-tutorial](https://www.udemy.com/course/automate/). Three years later I can't stop researching and playing with Python. <img width="14px" src="assets/SVG/python.svg"> <img width="14px" src="assets/SVG/heart-solid.svg">
