@@ -20,7 +20,7 @@ Mostly of the time I'm doing this
 
 ![Alt text](assets/images/camera.gif)
 
-but sometimes I love to do this. ~~I don't mean reply emails like a psysco~~
+but sometimes I love to do this. ~~I don't mean reply emails like a psycho~~
 
 ![Alt text](assets/images/jim-carrey-bruce-almighty.gif)
 
@@ -31,4 +31,4 @@ but sometimes I love to do this. ~~I don't mean reply emails like a psysco~~
 
 <img width="14px" src="assets/SVG/camera-solid.svg"> Actually working in [Casa Rosada](https://www.casarosada.gob.ar/la-casa-rosada/historia) as a photographer.
 
-<img width="14px" src="assets/SVG/virus-covid-solid.svg"> In pandemic I came back to my old love for programming. [Al Sweigart](https://alsweigart.com) released his famouse book [Automate The Boring Stuff With Python](https://automatetheboringstuff.com) in form of [udemy-video-tutorial](https://www.udemy.com/course/automate/). Three years later I can't stop researching and playing with Python. <img width="14px" src="assets/SVG/python.svg"> <img width="14px" src="assets/SVG/heart-solid.svg">
+<img width="14px" src="assets/SVG/virus-covid-solid.svg"> In pandemic I came back to my old love for programming. [Al Sweigart](https://alsweigart.com) released his famouse book [Automate The Boring Stuff With Python](https://automatetheboringstuff.com) in form of [udemy-video-tutorial](https://www.udemy.com/course/automate/). Three years later I couldn't stop learning and playing with Python. <img width="14px" src="assets/SVG/python.svg"> <img width="14px" src="assets/SVG/heart-solid.svg">
