@@ -16,7 +16,7 @@
 <br>
 <br>
 
-Mostly of the time I'm doing this
+Most of the time I'm doing this
 
 ![Alt text](assets/images/camera.gif)
 
