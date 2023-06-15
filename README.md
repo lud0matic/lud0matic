@@ -27,7 +27,7 @@ but sometimes I love to do this. ~~I don't mean reply emails like a psycho~~
 ### 👨🏻‍💻 More About Me
 
 
-<img width="14px" src="assets/SVG/database-solid.svg"> Former Database Admin for almost 15 years.
+ ![Alt text](assets/SVG/camera-solid.svg?size=16&color=808080)Former Database Admin for almost 15 years.
 
 <img width="14px" src="assets/SVG/camera-solid.svg"> Actually working in [Casa Rosada](https://www.casarosada.gob.ar/la-casa-rosada/historia) as a photographer.
 
