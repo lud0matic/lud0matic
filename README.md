@@ -20,6 +20,6 @@ but sometimes I love to do this. ~~I don't mean reply emails like a psycho~~
 
 <img src="https://icongr.am/fontawesome/database.svg?size=17&color=929292" style="vertical-align:middle"> Former Database Admin for almost 15 years.
 
-<img src="https://icongr.am/fontawesome/camera.svg?size=17&color=929292" style="vertical-align:middle"> Actually working in [Casa Rosada](https://www.casarosada.gob.ar/la-casa-rosada/historia) as a photographer.
+<img src="https://icongr.am/fontawesome/camera.svg?size=17&color=929292" style="vertical-align:middle"> Actually working in [Casa Rosada](https://www.casarosada.gob.ar/la-casa-rosada/historia) as a photographer. If you ask yourself "What is Casa Rosa?", the short answer is "the equivalent of The White House"
 
 <img src="https://icongr.am/material/virus.svg?size=17&color=929292" style="vertical-align:middle"> In pandemic I came back to my old love for programming. [Al Sweigart](https://alsweigart.com) released his famouse book [Automate The Boring Stuff With Python](https://automatetheboringstuff.com) in form of [tutorial](https://www.udemy.com/course/automate/). Three years later I couldn't stop learning and playing with Python. <img src="https://icongr.am/simple/python.svg?size=16&color=989898" style="vertical-align:middle"> <img src="https://icongr.am/fontawesome/heart.svg?size=16&color=e32400" style="vertical-align:middle">
